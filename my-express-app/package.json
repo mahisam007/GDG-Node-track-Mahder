@@ -1,13 +1,13 @@
-{
+﻿{
   "name": "my-express-app",
-  "version": "1.0.0",
-  "description": "Week 3 Express.js Homework",
+  "version": "1.0.1",
+  "description": "Week 3 Express.js Homework (Updated)",
   "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.23.0"
   }
 }
